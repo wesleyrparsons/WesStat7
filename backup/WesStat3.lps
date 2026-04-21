@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="WesStat3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Printing.pas"/>
+        <UnitName Value="Data.ValueInAndOut"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="47" Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="deskript.pas"/>
+        <UnitName Value="Deskript"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="1457"/>
+        <CursorPos X="25" Y="1473"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Data.ValueInAndOut.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="45"/>
+        <CursorPos X="2" Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="matrix.pas"/>
+        <UnitName Value="Matrix"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="50" Y="26"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="EigenValues.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="33" Y="50"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\correlations.pas"/>
+        <UnitName Value="Correlations"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="157"/>
+        <CursorPos X="26" Y="188"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="xalglib.pas"/>
+        <UnitName Value="XALGLIB"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="76929"/>
+        <CursorPos X="26" Y="76937"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="190" Column="63" TopLine="159"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="180" Column="37" TopLine="159"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="969" TopLine="958"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="184" Column="37" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="183" Column="24" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="100" Column="51" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="960" Column="38" TopLine="928"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="67" Column="44" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="75" Column="50" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="61" Column="48" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="75" Column="48" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="Data.ValueInAndOut.pas"/>
+        <Caret Line="66" Column="5" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="82" Column="40" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="78" Column="37" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="896" Column="58" TopLine="878"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="1607" Column="21" TopLine="1563"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="1566" Column="70" TopLine="1557"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="28" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="36" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="deskript.pas"/>
+        <Caret Line="962" Column="56" TopLine="934"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="283" Column="25" TopLine="253"/>
+      </Position>
+      <Position>
+        <Filename Value="..\correlations.pas"/>
+        <Caret Line="188" Column="26" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="90" Column="12" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="105" Column="7" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="168" Column="14" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="134" Column="67" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="WesStat3.lpr"/>
+        <Caret Line="52" Column="37" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="matrix.pas"/>
+        <Caret Line="17" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="matrix.pas"/>
+        <Caret Line="26" Column="50"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

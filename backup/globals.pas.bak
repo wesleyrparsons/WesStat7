@@ -1,0 +1,100 @@
+unit Globals;
+
+{$mode ObjFPC}{$H+}
+
+interface
+
+// === Precision Selection ===
+// Uncomment ONE of the following or define via compiler command line:
+// {$DEFINE USE_SINGLE}
+  {$DEFINE USE_DOUBLE}
+// {$DEFINE USE_EXTENDED}
+
+  {$IFDEF USE_SINGLE}
+    TFloat = Single;
+    const Epsilon: TFloat = 1e-6;
+  {$ENDIF}
+
+  {$IFDEF USE_DOUBLE}
+  type
+    TFloat = Double;
+    const Epsilon: TFloat = 1e-12;
+  {$ENDIF}
+
+  {$IFDEF USE_EXTENDED}
+    TFloat = Extended;
+    const Epsilon: TFloat = 1e-18;
+  {$ENDIF}
+
+type
+  TVector = record
+    Name : String;
+    Value: array of Double;
+  end;
+  TMatrix = array of record;
+    Name : String;
+    Value: array of TVector;
+  end;
+  TIVector = array of Integer;
+  TString = array of String;         lllll
+  TString80 = String[80];
+  TMessage = array[0..50] of TString80;
+  CorrType = (Pearson, Spearman, Kendall, Hoeffding);
+
+const
+  Title: String = 'Wes''s Statistics Version 5 September 2025';
+  Precision: String ='Save results to file for additional precision.';
+
+var
+  iES: Integer = 0;
+  ErrorStack: TMessage;
+  SName: TString;   // scalar names
+  SData.Value: TVector;    // scalar values
+  nScal: Integer = 0;
+  nRow, nCol: Integer;
+  WVar: TIVector;
+  WData: TMatrix;
+  WData.Name = ('Ht', 'Wt', 'Size', 'A', 'b');
+  WData.Value = (
+  (2, 3, 4, 5, 6),
+  (5, 6, 9, 1, 4),
+  (6, 4, 3, 11, 14),
+  (1, 6, 5, 0, 3),
+  (1, 5, 3, 14, 17),
+  (9, 3, 8, 9, 12),
+  (9, 3, 16, 0, 3),
+  (1, 4, 9, 1, 5),
+  (10, 5, -3, 13, 16),
+  (9, 13, 18, 9, 11),
+  (9, 3, 16, 0, 4),
+  (11, 4, -9, 1, 5)
+  );}
+
+procedure DisplayErrorStack;
+procedure AddToErrorStack(const Mess: TString80);
+
+implementation
+
+procedure DisplayErrorStack;
+var
+  k: Integer;
+begin
+  //writeln('Errors in procedures:');
+  for k := 0 to iES - 1 do
+    writeln(ErrorStack[k]);
+  iES := 0;
+end;
+
+procedure AddToErrorStack(const Mess: TString80);
+var k: Integer;
+begin
+  if iES > 0 then
+    for k := 0 to iES - 1 do
+      if Mess = ErrorStack[k] then
+        Exit;
+  ErrorStack[iES] := Mess;
+  Inc(iES);
+end;
+
+end.
+

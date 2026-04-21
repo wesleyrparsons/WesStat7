@@ -1,0 +1,17 @@
+
+> Token="mean"  iTA=0; nArg=-2; SlashMark=0.  String=; Integer=-99; Float= Nan; Variable=-99
+Token="all"  iTA=1; nArg=-1; SlashMark=0.  String=; Integer=0; Float=0.00; Variable=0
+WTokenArg Full Report: iTA = 1; nArg = 0; Line Position = 9; Length of Line = 8; SlashMark = 0; iArg = 0; iOpt = 0; nOpt = 1
+iTA=0; nArg=-1; SlashMark=0.  String=mean; Integer=-99; Float= Nan; Variable=-99
+Length = 0     WVar: 
+Hit <CR> to continue.
+> Token="l"  iTA=0; nArg=-2; SlashMark=0.  String=; Integer=-99; Float= Nan; Variable=-99
+WTokenArg Full Report: iTA = 1; nArg = 0; Line Position = 2; Length of Line = 1; SlashMark = 0; iArg = 0; iOpt = 0; nOpt = 1
+iTA=0; nArg=-1; SlashMark=0.  String=l; Integer=-99; Float= Nan; Variable=-99
+Length = 0     WVar: 
+Hit <CR> to continue.
+> Token="l"  iTA=0; nArg=-2; SlashMark=0.  String=; Integer=-99; Float= Nan; Variable=-99
+WTokenArg Full Report: iTA = 1; nArg = 0; Line Position = 2; Length of Line = 1; SlashMark = 0; iArg = 0; iOpt = 0; nOpt = 1
+iTA=0; nArg=-1; SlashMark=0.  String=l; Integer=-99; Float= Nan; Variable=-99
+Length = 0     WVar: 
+Hit <CR> to continue.

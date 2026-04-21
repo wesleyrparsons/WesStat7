@@ -1,0 +1,26 @@
+{==============================================================================}
+{                                                                              }
+{                WesStat: A Homebrew Statistical Analysis Program              }
+{                                                                              }
+{  A lightweight, high-precision statistics toolkit written in Free Pascal     }
+{  (or Delphi) for personal, research, and educational use.                    }
+{                                                                              }
+{  Author        : Wesley R. Parsons                                           }
+{  wespar@bellouth.net, www.wespar.com, Miami, Florida.                        }                                  
+{  First release : August 2025                                                 }
+{  Version       : 0.6                                                         }
+{  Date          : November 18, 2025                                           }
+{                                                                              }
+{  Copyright © 2025 Wesley R. Parsons. All rights reserved.                    }
+{                                                                              }
+{  License                                                                     }
+{  This program is free for personal, educational, and non-commercial use.     }
+{  You may modify and redistribute the source code provided this copyright     }
+{  notice and the above license terms remain unchanged and are included        }
+{  with any distribution.                                                      }
+{                                                                              }
+{  THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER      }
+{  EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF        }
+{  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.     }
+{                                                                              }
+{==============================================================================}

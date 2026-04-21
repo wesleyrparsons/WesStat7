@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="WesStat7"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <Units>
+      <Unit>
+        <Filename Value="WesStat7.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="correlations.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Correlations"/>
+      </Unit>
+      <Unit>
+        <Filename Value="linearalgebra.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LinearAlgebra"/>
+      </Unit>
+      <Unit>
+        <Filename Value="errorhandling.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ErrorHandling"/>
+      </Unit>
+      <Unit>
+        <Filename Value="todo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ToDo"/>
+      </Unit>
+      <Unit>
+        <Filename Value="bivariate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Bivariate"/>
+      </Unit>
+      <Unit>
+        <Filename Value="multivariate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Multivariate"/>
+      </Unit>
+      <Unit>
+        <Filename Value="univariate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Univariate"/>
+      </Unit>
+      <Unit>
+        <Filename Value="check.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Check"/>
+      </Unit>
+      <Unit>
+        <Filename Value="floattypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FloatTypes"/>
+      </Unit>
+      <Unit>
+        <Filename Value="regression.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Regression"/>
+      </Unit>
+      <Unit>
+        <Filename Value="testunit1.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="windows.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Windows"/>
+      </Unit>
+      <Unit>
+        <Filename Value="windisplay.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="WinDisplay"/>
+      </Unit>
+      <Unit>
+        <Filename Value="nominal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Nominal"/>
+      </Unit>
+      <Unit>
+        <Filename Value="basicfuncs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BasicFuncs"/>
+      </Unit>
+      <Unit>
+        <Filename Value="pca.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PCA"/>
+      </Unit>
+      <Unit>
+        <Filename Value="interpreter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CLI"/>
+      </Unit>
+      <Unit>
+        <Filename Value="globals.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Globals"/>
+      </Unit>
+      <Unit>
+        <Filename Value="parser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Parserr"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ee.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="EE"/>
+      </Unit>
+      <Unit>
+        <Filename Value="parse.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Parser"/>
+      </Unit>
+      <Unit>
+        <Filename Value="datadisplay.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DataDisplay"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="WesStat7"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Debugging>
+        <DebugInfoType Value="dsDwarf3"/>
+      </Debugging>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <IgnoredMessages idx5093="True" idx5092="True" idx5091="True" idx5058="True" idx5057="True"/>
+      </CompilerMessages>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

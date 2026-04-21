@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1533567158"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -vm5093,5092,5091,5058,5057 -FiC:\LazarusProject\WesStat7\lib\x86_64-win64 -FuC:\LazarusProject\WesStat7\ -FUC:\LazarusProject\WesStat7\lib\x86_64-win64\ -FEC:\LazarusProject\WesStat7\ -oC:\LazarusProject\WesStat7\WesStat7.exe WesStat7.lpr"/>
+</CONFIG>

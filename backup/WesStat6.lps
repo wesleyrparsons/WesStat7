@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="WesStat7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos Y="41"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="correlations.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Correlations"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="2117"/>
+        <CursorPos X="10" Y="2180"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="linearalgebra.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LinearAlgebra"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="1366"/>
+        <CursorPos X="33" Y="1379"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="errorhandling.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ErrorHandling"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="41"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="todo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ToDo"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="8"/>
+        <CursorPos X="21" Y="47"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="bivariate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Bivariate"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="7"/>
+        <CursorPos X="56" Y="33"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="multivariate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Multivariate"/>
+        <EditorIndex Value="15"/>
+        <CursorPos Y="12"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="univariate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Univariate"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="98"/>
+        <CursorPos X="37" Y="125"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="check.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Check"/>
+        <EditorIndex Value="18"/>
+        <CursorPos X="47" Y="20"/>
+        <UsageCount Value="205"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="floattypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FloatTypes"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="13" Y="28"/>
+        <UsageCount Value="211"/>
+      </Unit>
+      <Unit>
+        <Filename Value="regression.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Regression"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="713"/>
+        <CursorPos X="7" Y="757"/>
+        <UsageCount Value="206"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="testunit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="15"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="windows.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Windows"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="12"/>
+        <UsageCount Value="224"/>
+      </Unit>
+      <Unit>
+        <Filename Value="windisplay.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="WinDisplay"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="97" Y="7"/>
+        <UsageCount Value="224"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="nominal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Nominal"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="26"/>
+        <CursorPos X="18" Y="40"/>
+        <UsageCount Value="210"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="basicfuncs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BasicFuncs"/>
+        <EditorIndex Value="17"/>
+        <TopLine Value="323"/>
+        <CursorPos X="38" Y="369"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="pca.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PCA"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="46" Y="17"/>
+        <UsageCount Value="213"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="interpreter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CLI"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="892"/>
+        <CursorPos X="9" Y="918"/>
+        <UsageCount Value="207"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="globals.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Globals"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="114"/>
+        <CursorPos X="5" Y="141"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="parser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Parserr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="363"/>
+        <CursorPos X="24" Y="465"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ee.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="EE"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="284"/>
+        <CursorPos X="81" Y="291"/>
+        <UsageCount Value="201"/>
+      </Unit>
+      <Unit>
+        <Filename Value="parse.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Parser"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="2" Y="11"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="datadisplay.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DataDisplay"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="262"/>
+        <CursorPos X="14" Y="295"/>
+        <UsageCount Value="209"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="WesUnit.pas"/>
+        <EditorIndex Value="16"/>
+        <TopLine Value="1821"/>
+        <CursorPos X="28" Y="1854"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DataManager.pas"/>
+        <EditorIndex Value="19"/>
+        <TopLine Value="852"/>
+        <CursorPos X="5" Y="895"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Testing.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="23"/>
+        <CursorPos X="17" Y="49"/>
+        <UsageCount Value="103"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="879" Column="3" TopLine="854"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="892" Column="5" TopLine="865"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="13" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="1348" Column="16" TopLine="1322"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="14" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="48" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="1485" Column="5" TopLine="1432"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="137" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="globals.pas"/>
+        <Caret Line="72" Column="15" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="1348" Column="69" TopLine="1322"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="875" TopLine="852"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="49" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="1335" Column="25" TopLine="1322"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="13" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="13" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="892" Column="12" TopLine="865"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="122" Column="23" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="892" Column="12" TopLine="865"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="890" Column="29" TopLine="865"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="788" Column="15" TopLine="760"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="892" Column="17" TopLine="865"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="47" Column="15" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="DataManager.pas"/>
+        <Caret Line="892" Column="11" TopLine="852"/>
+      </Position>
+      <Position>
+        <Filename Value="globals.pas"/>
+        <Caret Line="97" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="linearalgebra.pas"/>
+        <Caret Line="1349" Column="69" TopLine="1323"/>
+      </Position>
+      <Position>
+        <Filename Value="globals.pas"/>
+        <Caret Line="97" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="globals.pas"/>
+        <Caret Line="72" Column="5" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="globals.pas"/>
+        <Caret Line="141" Column="5" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="interpreter.pas"/>
+        <Caret Line="253" Column="10" TopLine="225"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="&quot;Use external terminal&quot; = cmd.exe."/>
+            <UseConsoleWinBuffer Value="True"/>
+            <ConsoleWinBuffer>
+              <Columns Value="160"/>
+              <Rows Value="80"/>
+            </ConsoleWinBuffer>
+            <RedirectStdErr Value="rprAppend"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="1">
+        <Item1 Value="&quot;Use external terminal&quot; = cmd.exe."/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
